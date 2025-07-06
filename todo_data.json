@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Погладить вещи",
+    "completed": true
+  },
+  {
+    "text": "Сходить на тренировку",
+    "completed": false
+  },
+  {
+    "text": "Убраться в квартире",
+    "completed": false
+  }
+]
